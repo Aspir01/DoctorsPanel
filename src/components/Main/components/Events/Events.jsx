@@ -19,7 +19,6 @@ const Events = () => {
                     </tr>
                 })}
             </table>
-            <button className='analiz'>Анализировать</button>
         </div >
     )
 }
