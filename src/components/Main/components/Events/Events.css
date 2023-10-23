@@ -1,12 +1,11 @@
 .events {
     flex-direction: column;
-    width: 500px;
+    width: 580px;
     height: 288px;
     min-height: 362px;
     background: #FFFFFF;
     box-shadow: 0px 0px 7px #0000001a;
     border-radius: 10px;
-    margin: 20px 20px 20px 20px;
     overflow: auto;
     overflow-x: hidden;
     padding-bottom: 20px;

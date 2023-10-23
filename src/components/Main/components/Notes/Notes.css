@@ -3,9 +3,9 @@
     background: #FFFFFF;
     box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    height: 485px;
-    width: 900px;
-    margin: 30px 0px 0px 50px;
+    height: 560px;
+    margin-top: 2px;
+    width: 1000px;
     overflow: auto;
     overflow-x: hidden;
 }
@@ -22,7 +22,7 @@
 
 .title-date {
     width: 100%;
-    margin-left: 30px;
+    margin-left: 50px;
 }
 
 .note-title svg {
@@ -30,53 +30,53 @@
 }
 
 .note-title .surname {
-    padding-right: 30px !important;
+    padding-right: 50px !important;
 }
 
 .note-title .otdel {
-    padding-right: 30px !important;
+    padding-right: 50px !important;
 }
 
 .note-title .doctor {
-    padding-right: 10px !important;
+    padding-right: 30px !important;
 }
 
 .note-title .phone {
-    padding-right: 10px !important;
+    padding-right: 30px !important;
 }
 
 .status {
     align-items: center;
-    padding-right: 50px !important;
+    padding-right: 70px !important;
 }
 
 .status2 {
     align-items: center;
-    padding-right: 140px !important;
+    padding-right: 150px !important;
 }
 
 .surname2 {
-    padding-right: 20px !important;
+    padding-right: 30px !important;
 }
 
 .otdel2 {
     align-items: center;
-    padding-right: 30px !important;
+    padding-right: 40px !important;
 }
 
 .doctor2 {
     align-items: center;
-    padding-right: 15px !important;
+    padding-right: 25px !important;
 }
 
 .phone2 {
     align-items: center;
-    padding-right: 10px !important;
+    padding-right: 20px !important;
 }
 
 .note-title td {
     width: 105px;
-    padding: 10px 10px;
+    padding: 10px 20px;
     transition: 0.2s;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .note td {
-    width: 105px;
+    width: 140px;
     padding: 0 10px;
     transition: 0.2s;
 }

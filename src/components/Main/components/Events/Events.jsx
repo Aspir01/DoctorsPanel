@@ -16,6 +16,7 @@ const Events = () => {
                     return <tr className='event' key={id}>
                         <td> <div><input type="checkbox" /> {work.name} </div></td>
                         <td>{work.descr}</td>
+                        <td>{work.phone}</td>
                     </tr>
                 })}
             </table>

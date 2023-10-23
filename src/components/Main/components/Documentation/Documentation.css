@@ -4,10 +4,10 @@
     border-radius: 10px;
     width: 270px;
     height: 308px;
-    margin-left: 30px;
     flex-direction: column;
     overflow: auto;
     overflow-x: hidden;
+    margin-left: 30px;
 }
 
 .document button {
@@ -36,7 +36,7 @@
 .document td {
     text-align: left;
     width: 100px;
-    padding: 0 0px 0 20px;
+    padding-left: 20px;
     transition: 0.2s;
 }
 
