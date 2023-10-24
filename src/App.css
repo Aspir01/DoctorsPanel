@@ -57,4 +57,20 @@ body,
 #root,
 .App {
   height: 100%;
+  background: linear-gradient(116.82deg, #C9EDFF 0%, #FFD8C5 100%);
+}
+
+.modules {
+
+  background: linear-gradient(116.82deg, #C9EDFF 0%, #FFD8C5 100%);
+}
+
+@media (max-width: 1441px) {
+  body {
+    width: 120%;
+  }
+
+  .main.one {
+    margin: 0 5px !important;
+  }
 }
